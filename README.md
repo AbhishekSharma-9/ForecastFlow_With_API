@@ -1,4 +1,4 @@
-# ⛅ WeatherNow – Real-Time Weather Forecasting App
+# <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="32" height="32"> </picture> WeatherNow – Real-Time Weather Forecasting App
 
 Welcome to **WeatherNow** — a sleek, responsive weather forecasting website built with **HTML**, **CSS**, and **JavaScript**, powered by live data from **WeatherAPI**!
 
@@ -6,19 +6,19 @@ Welcome to **WeatherNow** — a sleek, responsive weather forecasting website bu
 
 ---
 
-## 🌐 Live Preview
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f304/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f304/512.gif" alt="🌄" width="32" height="32"></picture> Live Preview
 
 https://github.com/user-attachments/assets/ee260204-c0bc-4321-b287-2f59a32236b3
 
 ---
 
-## 📸 Screenshots
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32"></picture> Screenshots
 
 <img src="https://github.com/user-attachments/assets/da53115b-0924-4e83-a08b-89031c7453c2" alt="Weather Forecast UI Preview" width="100%" />
 
 ---
 
-## 🚀 Features
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> Features
 
 - 🔍 City-based real-time weather search
 - 🌡️ Live temperature, humidity, and wind data
@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/ee260204-c0bc-4321-b287-2f59a32236b3
 
 ---
 
-## 🛠️ Tech Stack
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"></picture> Tech Stack
 
 - **HTML5**
 - **CSS3** (with Glassmorphism styling)
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/ee260204-c0bc-4321-b287-2f59a32236b3
 
 ---
 
-## 📦 How to Run Locally
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="32" height="32"></picture> How to Run Locally
 
 1. Clone the repository
    ```bash
@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/ee260204-c0bc-4321-b287-2f59a32236b3
 
 ---
 
-## 🔑 API Used
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26d3_fe0f_200d_1f4a5/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26d3_fe0f_200d_1f4a5/512.gif" alt="⛓" width="32" height="32"></picture> API Used
 
 This app uses the free tier of **WeatherAPI**:
 
@@ -63,7 +63,7 @@ Replace `YOUR_API_KEY` with your personal key from [weatherapi.com](https://www.
 
 ---
 
-## 🎯 What I Learned
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32"></picture> What I Learned
 
 - How to make HTTP requests using `fetch()`
 - Parsing and displaying JSON data dynamically
@@ -72,7 +72,7 @@ Replace `YOUR_API_KEY` with your personal key from [weatherapi.com](https://www.
 
 ---
 
-## 📌 Future Improvements
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b3/512.gif" alt="🎳" width="32" height="32"></picture> Future Improvements
 
 - Add 5-day forecast view
 - Support for dark mode
@@ -81,11 +81,11 @@ Replace `YOUR_API_KEY` with your personal key from [weatherapi.com](https://www.
 
 ---
 
-## 📬 Feedback
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"></picture> Feedback
 
 Feel free to fork, open issues, or send suggestions!  
 If you liked the project, give it a ⭐️ — it means a lot!
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.gif" alt="💗" width="32" height="32"></picture> by Abhishek Sharma**
